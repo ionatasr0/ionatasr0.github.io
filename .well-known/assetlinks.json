@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.joojdevs.ondafy",
+      "sha256_cert_fingerprints": [
+        "4E:3A:AC:36:76:33:C7:80:6C:0B:76:6F:F2:11:0D:CA:D7:8D:D2:4B:C8:25:25:0D:E3:32:A5:88:70:AB:AD:E2"
+      ]
+    }
+  }
+]
